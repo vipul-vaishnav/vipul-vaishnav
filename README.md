@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/vipul-vaishnav/vipul-vaishnav/main/Header.gif "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/vipul-vaishnav/vipul-vaishnav/main/Header.gif "vipul-vaishnav")](https://github.com/vipul-vaishnav/)
 
 
 <!--
