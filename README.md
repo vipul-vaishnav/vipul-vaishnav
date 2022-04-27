@@ -2,8 +2,8 @@
 
 # _Hey, Welcome to my Github_
 
-> Hii, i am Vipul Vaishhanv
-> A Computer Science Student
+> Hii, I am Vipul Vaishhanv
+> , A Computer Science Student
 > from India, currently learning 
 > Full Stack Web Development.
 
