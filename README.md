@@ -13,7 +13,9 @@ Turning bytes into ideas with a sprinkle of Java, a dash of Python, and lots of 
 *   ✉️  You can contact me at [007vipulrank1@gmail.com](mailto:007vipulrank1@gmail.com)
 *   🧠  I'm learning Data Science & Machine Learning 👨‍💻
 *   🤝  I'm open to collaborating on React Projects
-*   ⚡  Crafting the Future of Web Development### Skills 
+*   ⚡  Crafting the Future of Web Development
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
